@@ -1,0 +1,14 @@
+body {overflow:hidden}
+
+.pro_styl_preloader_container {height: 100%;
+left: 0;
+position: absolute;
+top: 0;
+width: 100%;}
+
+.pro_styl_preloader_overlay {background:#000;opacity:.8;height: 100%;
+left: 0;
+position: absolute;
+top: 0;
+width: 100%;z-index:1}
+.load_styl_spinner {z-index:99}
